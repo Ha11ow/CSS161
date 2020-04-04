@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=s
+comment0.target=void\ MainMenu(java.util.Scanner)
+comment1.params=s
+comment1.target=void\ PurchasingItems(java.util.Scanner)
+comment2.params=s
+comment2.target=void\ DisplayMenu(java.util.Scanner)
+comment3.params=s
+comment3.target=void\ PrintReciept(java.util.Scanner)
+comment4.params=Args
+comment4.target=void\ main(java.lang.String[])
+numComments=5

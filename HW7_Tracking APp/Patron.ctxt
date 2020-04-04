@@ -1,0 +1,26 @@
+#BlueJ class context
+comment0.params=nickname
+comment0.target=Patron(java.lang.String)
+comment1.params=nickname
+comment1.target=void\ setNickname(java.lang.String)
+comment10.params=
+comment10.target=double\ getTotalSpeed()
+comment11.params=
+comment11.target=java.lang.String\ toString()
+comment2.params=
+comment2.target=java.lang.String\ getNickname()
+comment3.params=time1\ distance1\ time2\ distance2
+comment3.target=void\ newPath(int,\ int,\ int,\ int)
+comment4.params=newPath
+comment4.target=void\ addPath(Path)
+comment5.params=
+comment5.target=void\ printCheckpoints()
+comment6.params=
+comment6.target=int\ getPathsSize()
+comment7.params=i\ time\ distance
+comment7.target=void\ addCheckpoint(int,\ int,\ int)
+comment8.params=
+comment8.target=int\ getTotalDistance()
+comment9.params=
+comment9.target=int\ getTotalTime()
+numComments=12

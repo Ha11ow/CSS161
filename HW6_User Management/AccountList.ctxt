@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.params=newAccount
+comment0.target=void\ addAccount(Account)
+comment0.text=\r\n\ actions\r\n
+comment1.params=
+comment1.target=void\ printarraylist()
+comment2.params=otherAccount
+comment2.target=boolean\ equals(Account)
+numComments=3
