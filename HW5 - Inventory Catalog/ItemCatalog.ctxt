@@ -1,8 +1,0 @@
-#BlueJ class context
-comment0.params=
-comment0.target=void\ initializer()
-comment1.params=newItem
-comment1.target=void\ AddItem(Item)
-comment2.params=
-comment2.target=void\ DisplayItems()
-numComments=3
